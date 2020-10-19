@@ -1,0 +1,18 @@
+.name_of_objects{
+    color: yellow;
+}
+body{
+    background-color: lightblue;
+}
+#camera
+{
+    width:320px;
+    height: 240px;
+    border:1px solid grey;
+}
+#result
+{
+    width:320px;
+    height: 240px;
+    border:1px solid grey;
+}
